@@ -47,7 +47,6 @@ import android.view.ViewGroup;
 import android.widget.AppSecurityPermissions;
 import android.widget.Button;
 import android.widget.GridLayout;
-import android.widget.ScrollView;
 import android.widget.TabHost;
 import android.widget.TextView;
 
